@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-My name is Derek Duarte and I'm a 22-year-old back-end developer specializing in Python, with a strong focus on machine learning and AI-related projects. I'm passionate about leveraging data and AI to solve complex problems and create innovative solutions.
+My name is Derek Duarte and I'm a 24-year-old back-end developer specializing in Python, with a strong focus on machine learning and AI-related projects. I'm passionate about leveraging data and AI to solve complex problems and create innovative solutions.
 
 I've been diving into JavaScript for the past 4 months to expand my skill set and help me in future projects. I believe in lifelong learning and am always eager to explore new technologies and concepts.
 
